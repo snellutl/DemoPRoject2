@@ -1,1 +1,2 @@
-Added a new file under C and S
+Added a new file under C and Sgit status
+changing somthing
